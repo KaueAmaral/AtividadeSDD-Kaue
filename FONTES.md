@@ -15,8 +15,10 @@
 > como fonte declarada.
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
-| --- | --- | --- | --- |
-| — | | | |
+| https://github.com/github/spec-kit/blob/main/templates/tasks-template.md | utilizado para me basear na estrutura dos documentos, embora nao segui exatamente à risca... | --- | --- |
+|  https://share.gemini.google/i6vHYrw4r9Ym| | redigir documentos| |
+
+ utilizado para me basear na estrutura dos documentos, embora nao segui exatamente à risca...
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
@@ -48,7 +50,7 @@ Declaro que todo o conteúdo deste repositório que não é de minha autoria dir
 está declarado acima, e que consigo explicar qualquer trecho entregue — tenha
 ele vindo da minha cabeça, de um site ou de uma IA consultada.
 
-**Nome / RA:**
+**Nome / RA:*kaue emanoel tosta do amaral 230795422*
 
 [^transparencia]: Este arquivo é, ele mesmo, um exemplo de markdown bem
     usado: *alert* para a regra crítica, tabelas para os registros e *footnote*

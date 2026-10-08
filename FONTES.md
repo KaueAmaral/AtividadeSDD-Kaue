@@ -16,9 +16,6 @@
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
 | https://github.com/github/spec-kit/blob/main/templates/tasks-template.md | utilizado para me basear na estrutura dos documentos, embora nao segui exatamente à risca... | --- | --- |
-|  [https://share.gemini.google/i6vHYrw4r9Ym](https://share.gemini.google/VRRgk9Bdt9SI)| | redigir documentos| |
-
- utilizado para me basear na estrutura dos documentos, embora nao segui exatamente à risca...
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
@@ -39,7 +36,7 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
    dúvida, o professor pede o link e pergunta sobre o código.[^plagio]
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
-| --- | --- | --- |
+| [---](https://share.gemini.google/VRRgk9Bdt9SI) | redigir o arquivo| --- |
 | — | | |
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*

@@ -15,7 +15,8 @@
 > como fonte declarada.
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
-| https://github.com/github/spec-kit/blob/main/templates/tasks-template.md | utilizado para me basear na estrutura dos documentos, embora nao segui exatamente à risca... | --- | --- |
+| --- | --- | --- | --- |
+| — |https://github.com/github/spec-kit/blob/main/templates/tasks-template.md | ver os templates | escolhi algumas estruturas, mas acabei delegando pra IA reorganizar dps |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
@@ -36,8 +37,8 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
    dúvida, o professor pede o link e pergunta sobre o código.[^plagio]
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
-| [---](https://share.gemini.google/VRRgk9Bdt9SI) | redigir o arquivo| --- |
-| — | | |
+| --- | --- | --- |
+| — | https://share.gemini.google/RG44W2OyrD1H | redijir os documentos pra ficar mais organizado|
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 

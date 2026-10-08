@@ -16,7 +16,7 @@
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
 | https://github.com/github/spec-kit/blob/main/templates/tasks-template.md | utilizado para me basear na estrutura dos documentos, embora nao segui exatamente à risca... | --- | --- |
-|  https://share.gemini.google/i6vHYrw4r9Ym| | redigir documentos| |
+|  [https://share.gemini.google/i6vHYrw4r9Ym](https://share.gemini.google/VRRgk9Bdt9SI)| | redigir documentos| |
 
  utilizado para me basear na estrutura dos documentos, embora nao segui exatamente à risca...
 

@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "repo": "AtividadeSDD-Kaue",
+  "repo_url": "https://github.com/KaueAmaral/AtividadeSDD-Kaue",
+  "exam_dir": "exams/2026/track-01-especificacao-sdd",
+  "track": "track-01-especificacao-sdd",
+  "issue": 1,
+  "issue_url": "https://github.com/KaueAmaral/AtividadeSDD-Kaue/issues/1",
+  "gerado_em": "2026-10-08T00:37:58+00:00",
+  "fechada_em": "2026-10-08T00:37:35Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "KaueAmaral",
+    "ra": "230795422",
+    "nome": "Kaue Amaral"
+  },
+  "variante": {
+    "slug": "AtividadeSDD-Kaue",
+    "EXAM_DIR": "exams/2026/track-01-especificacao-sdd",
+    "TARIFA_HORA_CENTAVOS": 550,
+    "FRACAO_MINUTOS": 15,
+    "TETO_DIARIO_CENTAVOS": 6000,
+    "PORTA_SERVICO": 8004,
+    "TOLERANCIA_MINUTOS": 15
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-07T22:18:28Z",
+    "ultimo_push": "2026-10-07T21:33:36-03:00"
+  },
+  "commits": {
+    "total": 7,
+    "autores": [
+      "Kaue Amaral"
+    ],
+    "primeiro": "2026-10-07T19:06:36-03:00",
+    "ultimo": "2026-10-07T21:33:36-03:00",
+    "fora_da_janela": 2
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 0
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 0
+  }
+}
